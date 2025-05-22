@@ -1,1 +1,1 @@
-# MEGASENA2
+# megasena-2A
